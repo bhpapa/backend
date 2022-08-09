@@ -8,7 +8,6 @@ v1.0
 nodejs+express+mysql
 
 #安装组件
-
 npm install
 
 #启动项目
